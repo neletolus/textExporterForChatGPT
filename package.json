@@ -1,0 +1,22 @@
+{
+  "name": "textexporterforchatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neletolus/textExporterForChatGPT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neletolus/textExporterForChatGPT/issues"
+  },
+  "homepage": "https://github.com/neletolus/textExporterForChatGPT#readme",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
+}
